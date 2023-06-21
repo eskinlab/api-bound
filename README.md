@@ -10,7 +10,7 @@ Run the following command to start server:
 ```commandline
 python.exe src/api.py
 ```
-
+By default, the server starts on the localhost and port 5000.  
 
 For testing purposes, you can use tools like Curl or Postman to send GET and POST requests to the API endpoints.  
 
