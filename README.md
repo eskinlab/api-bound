@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 Run the following command to start server:
 ```commandline
-python.exe etc/api.py
+python.exe src/api.py
 ```
 
 
