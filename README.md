@@ -1,4 +1,4 @@
-<H3> REST API for flights info (test task)</H3> 
+<H3> REST API for flights info </H3> 
 
 
 Run the following command to install the packages:
@@ -6,7 +6,7 @@ Run the following command to install the packages:
 pip install -r requirements.txt
 ```
 
-Run the following command to start server:
+Run the following command to start the server:
 ```commandline
 python.exe src/api.py
 ```
